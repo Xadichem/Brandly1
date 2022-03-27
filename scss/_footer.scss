@@ -3,6 +3,8 @@
 .footer {
   min-height: 157px;
   background-image: url("../images/footer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 
   &__author {
     padding: 65px 889px 65px 0;
