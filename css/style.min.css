@@ -247,9 +247,12 @@ body {
 .footer {
   min-height: 157px;
   background-image: url("../images/footer.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .footer__author {
-  padding: 65px 889px 65px 0;
+  padding: 65px 800px 65px 0;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   font-weight: 300;
