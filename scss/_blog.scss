@@ -51,6 +51,7 @@
     box-sizing: border-box;
   }
   &__link {
+    padding: 4px 20px;
     font-family: $secondary-font;
     font-style: normal;
     font-weight: 700;
@@ -58,5 +59,7 @@
     line-height: 22px;
     text-transform: uppercase;
     color: $dark;
+    justify-content: center;
+    align-items: center;
   }
 }
